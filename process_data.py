@@ -15,3 +15,5 @@ df=df[["sales","date","region"]]
 df.to_csv("data/processed1_data.csv",index=False)
 
 print("Processed dataset created successfully!")
+
+
