@@ -1,0 +1,6 @@
+product,quantity,price,date,region
+pink morsel,10,2.5,2021-01-01,north
+pink morsel,12,2.5,2021-01-01,south
+pink morsel,8,2.5,2021-01-01,east
+pink morsel,15,2.5,2021-01-01,west
+green morsel,7,2.0,2021-01-01,north
